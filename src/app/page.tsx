@@ -1,5 +1,5 @@
 import { Container } from '@/components/layout/Container'
-import Career from '@/components/home/Career'
+// import Career from '@/components/home/Career'
 import Education from '@/components/home/Education'
 import SocialLinks from '@/components/home/SocialLinks'
 import { headline, introduction } from '@/config/infoConfig'
@@ -11,9 +11,9 @@ import {
   projects,
   techIcons,
 } from '@/config/infoConfig'
-import GithubContributions from '@/components/home/GithubCalendar'
+// import GithubContributions from '@/components/home/GithubCalendar'
 import GitHubSnake from '@/components/home/GitHubSnake'
-import { CustomIcon } from '@/components/shared/CustomIcon'
+// import { CustomIcon } from '@/components/shared/CustomIcon'
 import IconCloud from '@/components/ui/icon-cloud'
 
 export default async function Home() {
